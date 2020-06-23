@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 import pandas as pd
-import joblib
 import numpy as np
+import pickle
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import cross_val_score
@@ -42,7 +42,7 @@ gs_rf.best_score_  # MAE of  -16910.23498264062
 best_model = gs_rf.best_estimator_
 
 # Pickle / save model
-joblib.dump(best_model,'model.pkl')
-
+with open('model.pkl', 'wb') as file:
+    pickle.dump(best_model, file)
 
 

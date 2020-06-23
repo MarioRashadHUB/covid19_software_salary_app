@@ -1,5 +1,5 @@
 import streamlit as st
-import joblib
+import pickle
 import numpy as np
 import pandas as pd
 from PIL import Image
@@ -27,8 +27,10 @@ st.title('Software Engineer Salary Estimator (during COVID-19)')
 image = Image.open('map.png')
 st.image(image, caption='States most affected (less then 10% in job postings)',use_column_width=True)
 
-model = joblib.load('model.pkl')
-
+# Use pickle to load in the pre-trained model
+with open(f'model.pkl', 'rb') as f:
+    model = pickle.load(f)
+    
 st.subheader("Job Preferences:")
 
 rating = st.slider('Glassdoor Rating of the Company',
