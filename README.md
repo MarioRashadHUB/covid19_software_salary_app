@@ -57,5 +57,12 @@ The following changes were made and created the following variables before I cou
 *	Column for simplified job title
 *	Column for description length  
 
+## Exploratory Data Analysis
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
+
+
+
+## Model Building
+Algorithmically built and tested several different models. Ridge Regression provided best results of MAE ≈ 19014.24
 ![alt text](https://github.com/MarioRashadHUB/covid19_software_salary_app/blob/master/images/bottom_app.png "Results from application")
 ![alt text](https://github.com/MarioRashadHUB/covid19_software_salary_app/blob/master/images/results.png "Map of most affect states")
