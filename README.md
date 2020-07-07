@@ -11,6 +11,7 @@
 **Packages:** pandas, matplotlib, seaborn, selenium
 
 **Ken Jee's Data Science Project from Scratch Series:**  https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
+
 **Data Professor's Streamlit Tutorial Series:**  https://www.youtube.com/watch?v=8M20LyCZDOY&t=300s
 
 
