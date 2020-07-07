@@ -65,5 +65,7 @@ I looked at the distributions of the data and the value counts for the various c
 
 ## Model Building
 Algorithmically built and tested several different models. Ridge Regression provided best results of MAE ≈ 19014.24
-![alt text](https://github.com/MarioRashadHUB/covid19_software_salary_app/blob/master/images/bottom_app.png "Results from application")
+
 ![alt text](https://github.com/MarioRashadHUB/covid19_software_salary_app/blob/master/images/results.png "Map of most affect states")
+
+![alt text](https://github.com/MarioRashadHUB/covid19_software_salary_app/blob/master/images/bottom_app.png "Results from application")
