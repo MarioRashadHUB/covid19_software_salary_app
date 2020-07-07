@@ -55,10 +55,7 @@ The following changes were made and created the following variables before I cou
     * Adobe
     * Adwords
 *	Column for simplified job title
-*	Column for description length 
+*	Column for description length  
 
-## Exploratory Data Analysis
-I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
-
-![alt text](https://github.com/MarioRashadHUB/comm_salary_proj/blob/master/images/map.png "Map of most affect states")
-![alt text](https://github.com/MarioRashadHUB/comm_salary_proj/blob/master/images/botom_app.png "Results from application")
+![alt text](https://github.com/MarioRashadHUB/covid19_software_salary_app/blob/master/images/bottom_app.png "Results from application")
+![alt text](https://github.com/MarioRashadHUB/covid19_software_salary_app/blob/master/images/results.png "Map of most affect states")
