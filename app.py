@@ -24,8 +24,8 @@ df = pd.read_csv('cs_data_cleaned.csv')
 st.title('Software Engineer Salary Estimator (during COVID-19)')
 
 
-image = Image.open('map.png')
-st.image(image, caption='States most affected (less then 10% in job postings)',use_column_width=True)
+image = Image.open('./images/map.png')
+st.image(image, caption='States most affected in January 2022 (less then 10% in job postings)',use_column_width=True)
 
 # Use pickle to load in the pre-trained model
 with open(f'model.pkl', 'rb') as f:
