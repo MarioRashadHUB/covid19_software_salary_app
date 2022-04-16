@@ -1,0 +1,9 @@
+altair
+pandas
+streamlit
+pillow
+numpy
+pil
+pickle
+
+
