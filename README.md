@@ -3,6 +3,8 @@
 * Scraped over 1000 job descriptions from glassdoor using python and selenium
 * Engineered features in the application to allow customization by the user to select options that reflect their value and experience for more personalized results.
 
+### Link: https://share.streamlit.io/mariorashadhub/covid19_software_salary_app/app.py
+
 ![alt text](https://github.com/MarioRashadHUB/covid19_software_salary_app/blob/master/images/full_app.png "Web Application")
 
 ## Code and Resources Used 
