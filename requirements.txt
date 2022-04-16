@@ -4,6 +4,6 @@ streamlit
 pillow
 numpy
 pillow
-pickle
+
 
 
