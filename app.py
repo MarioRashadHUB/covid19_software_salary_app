@@ -40,7 +40,7 @@ age = st.number_input('Age of the Company (Years)', step=1.0, min_value=0.0)
 st.subheader('Job Attributes:')
 
 jobhq_num = st.radio(
-    "Would you like the position to be located at the company headquarters ? ", options=["Yes", "No"])
+    "Would you prefer the position to be located at the company headquarters ? ", options=["Yes", "No"])
 
 jobhq_yn = lang_simplifier(jobhq_num)
 
