@@ -5,7 +5,7 @@
 
 ### Link: https://share.streamlit.io/mariorashadhub/covid19_software_salary_app/app.py
 
-![alt text](https://github.com/MarioRashadHUB/covid19_software_salary_app/blob/master/images/full_app.png "Web Application")
+![alt text](https://github.com/MarioRashadHUB/covid19_software_salary_app/blob/master/images/showcase_photo.png "Web Application")
 
 ## Code and Resources Used 
 **Python Version:** 3.7
@@ -70,4 +70,4 @@ Algorithmically built and tested several different models. Ridge Regression prov
 
 ![alt text](https://github.com/MarioRashadHUB/covid19_software_salary_app/blob/master/images/results.png "Map of most affect states")
 
-![alt text](https://github.com/MarioRashadHUB/covid19_software_salary_app/blob/master/images/bottom_app.png "Results from application")
+![alt text](https://github.com/MarioRashadHUB/covid19_software_salary_app/blob/master/images/showcase_bottom.png "Results from application")
